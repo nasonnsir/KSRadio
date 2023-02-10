@@ -24,7 +24,7 @@ http://live02.rfi.fr/rfienchinois-64.mp3
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",鳳凰優悅
 http://uradio-streamer0.ifengus.com:8000/ulive.mp3
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",VOA
-http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",VOA [FQ]
 http://stream.radiojar.com/7thwu53r92quv
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",VOA [備.FQ]
