@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京新闻广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京交通广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京交通广播
 https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京城市广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京城市广播
 https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京音乐广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京音乐广播
 https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京文艺广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京文艺广播
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京体育广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",京津冀之声
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",京津冀之声
 https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京故事广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京故事广播
 https://brtv-radiolive.rbc.cn/alive/am603.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京外语广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京外语广播
 https://brtv-radiolive.rbc.cn/alive/fm923.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京青年广播
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京青年广播
 https://brtv-radiolive.rbc.cn/alive/fm982.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京新闻【蜻蜓】
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京新闻【蜻蜓】
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京交通【蜻蜓】
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",北京交通【蜻蜓】
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",上海新闻【蜻蜓】
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",上海新闻【蜻蜓】
 http://ls.qingting.fm/live/270.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",上海交通【蜻蜓】
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="国内电台",上海交通【蜻蜓】
 http://ls.qingting.fm/live/226.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="港澳廣播",RTHK普通話 [FQ]
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
