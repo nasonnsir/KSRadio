@@ -1,6 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京新闻
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京新闻广播
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京交通广播
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京音乐广播
+https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京文艺广播
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",京津冀之声
+https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京故事广播
+https://brtv-radiolive.rbc.cn/alive/am603.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京外语广播
+https://brtv-radiolive.rbc.cn/alive/fm923.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京青年广播
+https://brtv-radiolive.rbc.cn/alive/fm982.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京新闻【蜻蜓】
 http://ls.qingting.fm/live/339.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="中国广播",北京交通【蜻蜓】
@@ -15,6 +33,10 @@ http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
 http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",Arirang
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",CBS표준FM
+http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",CBS음악FM
+http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",RFI中文_64k
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Radio",RFI中文_96k
