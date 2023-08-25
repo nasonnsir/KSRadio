@@ -155,17 +155,11 @@ http://livecast2.soundofhope.org/soh-live
 http://radio.soundofhope.org:8880/SOH_64K
 #EXTINF:-1 group-title="Korea",YTN FM94.5
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+#EXTINF:-1 group-title="Korea",EBS FM 104.5
+http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8 
 #EXTINF:-1 group-title="Korea",CBS표준FM
 http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea",CBS음악FM
 http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea",ArirangFM
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
-#EXTINF:-1 group-title="Korea",MBC표준FM
-http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=mbc&i=sfm
-#EXTINF:-1 group-title="Korea",MBC FM4U
-http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=mbc&i=mfm
-#EXTINF:-1 group-title="Korea",SBS PowerFM
-http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=sbs&i=S07
-#EXTINF:-1 group-title="Korea",SBS LoveFM
-http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=sbs&i=S08
